@@ -8,10 +8,6 @@ A visually striking landing page clone inspired by Apple’s latest iPhone 17 Pr
 - Strong use of color, shadow, and minimalistic layout for brand emphasis
 - Custom HTML & CSS (static, for learning purposes)
 
-## Screenshot
-
-![iPhone 17 Pro Landing Page](./Screenshot 2025-10-04 152055.png)
-
 ## Author
 
 Created by Vasundhara Thakur 
