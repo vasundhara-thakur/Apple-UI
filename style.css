@@ -1,0 +1,75 @@
+@font-face {
+    font-family: apple;
+    src: url(/sf-pro-text_regular.woff2);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: apple;
+    font-weight: 300;
+}
+
+#main{
+    height: 90%;
+    width: 100%;
+}
+
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(36, 35, 35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    list-style-type: none;
+}
+
+li a, li i {
+    text-decoration: none;
+    color: #fff;
+}
+
+.center{
+    height: 100%;
+    width: 100%;
+    background: url(https://www.apple.com/v/iphone-17-pro/b/images/overview/welcome/hero_endframe__xdzisdq1ppem_medium.jpg);
+    background-size: cover;
+}
+
+/* button{
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: none;
+    margin: 10px 5px;
+}
+
+.one{
+    background-color: rgb(75, 75, 253);
+    color: #fff;
+}
+
+.two{
+    color:#fff;
+    background-color: transparent;
+    border: 1px solid rgb(75, 75, 253);
+}
+
+.two:hover{
+    background-color: rgb(75, 75, 253);
+    border: none;
+} */
