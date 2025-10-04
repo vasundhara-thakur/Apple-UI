@@ -10,8 +10,8 @@ A visually striking landing page clone inspired by Apple’s latest iPhone 17 Pr
 
 ## Screenshot
 
-![iPhone 17 Pro Landing Page](./Screenshot-2025-10-04-152055.jpg)
+![iPhone 17 Pro Landing Page](./Screenshot 2025-10-04 152055.png)
 
 ## Author
 
-Created by Vasundhara THakur 
+Created by Vasundhara Thakur 
